@@ -10,6 +10,10 @@
 	path = openalexPro
 	url = https://github.com/openalexPro/openalexPro
 	branch = main
+[submodule "openalexSnapshot"]
+	path = openalexSnapshot
+	url = https://github.com/openalexPro/openalexSnapshot
+	branch = main
 [submodule "openalexSnowball"]
 	path = openalexSnowball
 	url = https://github.com/openalexPro/openalexSnowball
