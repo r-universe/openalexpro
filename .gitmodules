@@ -1,4 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/openalexpro/openalexpro.r-universe.dev
 	branch = HEAD
+[submodule "openalexConvert"]
+	path = openalexConvert
+	url = https://github.com/openalexPro/openalexConvert
+	branch = main
+[submodule "openalexPro"]
+	path = openalexPro
+	url = https://github.com/openalexPro/openalexPro
+	branch = main
+[submodule "openalexSnowball"]
+	path = openalexSnowball
+	url = https://github.com/openalexPro/openalexSnowball
+	branch = main
+[submodule "openalexVectorComp"]
+	path = openalexVectorComp
+	url = https://github.com/openalexPro/openalexVectorComp
+	branch = main
